@@ -1,14 +1,17 @@
 # Steps
-echo # blabla >> readme.md
-mv *.svg images/icons
-mv *.jpg images
-mv *.jpg images
-rename -c *.md
-mkdir content
-mv *.md content
-mv *.js scripts
-rm -rf *.css
-mv *.html ../
+
+- echo # blabla >> readme.md
+- mv *.svg images/icons
+- mv *.jpg images
+- mv *.jpg images
+- rename -c *.md
+- mkdir content
+- mv *.md content
+- mv *.js scripts
+- rm -rf *.css
+- mv *.html ../
+`
+
 .
 ├── adventpro-bold-demo.html
 ├── adventpro-extralight-demo.html
@@ -76,3 +79,4 @@ mv *.html ../
 
 7 directories, 56 files
 changed the filenames to lower capital
+`
