@@ -10,8 +10,8 @@
 - mv *.js scripts
 - rm -rf *.css
 - mv *.html ../
-`
 
+`
 .
 ├── adventpro-bold-demo.html
 ├── adventpro-extralight-demo.html
@@ -79,4 +79,5 @@
 
 7 directories, 56 files
 changed the filenames to lower capital
+
 `
